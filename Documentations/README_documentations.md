@@ -1,0 +1,1 @@
+This folder contains several samples of software system documentation. Some of them are intended for customers, while others are used internally within the team. I hope that these documents can be helpful to you.
