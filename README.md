@@ -1,7 +1,5 @@
-# .Net Developer Resources
-I try to share any kind of resources that have helped me learn more about .NET development.
-
-Firstly, roadmaps were useful for me in understanding what it takes to be a real developer. However, I created my own customized roadmap.
+# Software Engineering Resources
+I try to share any kind of resources that have helped me learn more about .NET development or anything about software engineering.
 
 Secondly, I share books and slides that have been beneficial to me in computer engineering. Some titles may not be part of a .NET developer's roadmap, but they are necessary for me to learn as part of my personal growth. Therefore, **this repository contains resources related to programming or computer engineering**.
 
@@ -16,6 +14,5 @@ There are several types of documents that I have shared here.
 As mentioned above, some of the topics covered in this repository are not included in the roadmaps. However, I found it necessary to learn them.
 
 At our company, we have a good practice of sharing new knowledge with other teams when a team member learns something new.
-I created these slides to lecture my colleagues and am sharing them here,
-hoping they will be useful for someone who would like to familiarize themselves with these topics by reading these slides.
-Afterward, you can search for more comprehensive resources to enhance your knowledge.
+I created these documents to lecture my colleagues and am sharing them here,
+hoping they will be useful for someone who would like to familiarize themselves with these topics by reading these docs.
